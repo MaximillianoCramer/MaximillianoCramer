@@ -1,6 +1,6 @@
 ### Olá, eu sou Cramer ✌️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximillianoCramer&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximillianoCramer&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximillianoCramer)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 ### Tecnologias que uso e estudo diariamente!
